@@ -1,0 +1,13 @@
+name: XBanChatPlugin
+version: 1.1.0
+main: plugin.xbanchatplugin.XBanChatPlugin
+api-version: 1.16
+authors: [XDingDang,MIIXL]
+
+
+commands:
+  xbc:
+    permission-message: §a§l[§4§lX§b§lBanChat§a§l]§r || 您没有权限 §4§l[XCommand.BanChat.xbc]
+    permission: XCommand.BanChat.xbc
+    usage: /<command>
+    description: op
