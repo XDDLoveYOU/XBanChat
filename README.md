@@ -15,6 +15,9 @@
 - /xbc help  获取帮助信息
 - /xbc ListenerLevel [1~3]  设置监听等级
 ## ======================================
+##                            使用统计
+![Alt 信息统计](https://bstats.org/signatures/bukkit/XBanChatPlugin.svg "插件使用统计图")
+
 ## 经过测试本插件可以在1.12~1.16.5中正常运行，不排除其他版本可能会出现无法加载！
 ## 支持的服务端：BUKKIT , SPIGOT , PAPER.
 ## 作者会不定期更新本插件，确保本插件能够正常运行
